@@ -2,7 +2,7 @@
 
 In Eclipse,
 firstly , we need to create maven project and choose java version that is important.
-Secondly, we must made <build> in pom.xml beacause we setup java-version and other requirements such as <project.source.Encoding>.
+Secondly, we must made build-property in pom.xml beacause we setup java-version and other requirements such as <project.source.Encoding>.
 And then we must download required dependencies in pom.xml.They are
 - hibernate-core for hibernate jpa 
 - mysql-connector-j for database
