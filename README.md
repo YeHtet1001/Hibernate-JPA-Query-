@@ -8,4 +8,8 @@ And then we must download required dependencies in pom.xml.They are
 - mysql-connector-j for database
 - lombok for getter,setter and so on as annotation
 - junit-jupiter for testing in eclipse
-- hibernate-jpamodelgen for generating a metamodel class for your JPA entities instead of using string-based queries,primarily using to enable type-safe criteria queries in JPA Criteria API
+- hibernate-jpamodelgen for generating a metamodel class for your JPA entities instead of using string-based queries,primarily using to enable type-safe criteria queries in JPA Criteria API.
+
+don't forget to be force update the whole project.
+
+
